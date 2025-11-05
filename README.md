@@ -1,5 +1,5 @@
 # PythonMiniProjecto
-Mini projects! Wrote with love and procrastination.
+Mini projects! Wrote with love.
 
 ## **Index**  
   ### Flash card webpage  
